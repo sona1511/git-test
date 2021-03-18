@@ -1,0 +1,25 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is a test directory where we learn Git and Node",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sona1511/git-test.git"
+  },
+  "author": "Sony Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sona1511/git-test/issues"
+  },
+  "homepage": "https://github.com/sona1511/git-test#readme"
+}
